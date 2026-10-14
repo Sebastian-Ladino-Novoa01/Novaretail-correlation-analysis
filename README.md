@@ -1,6 +1,3 @@
-# Novaretail-correlation-analysis
-Correlation analysis of 15,000 ecommerce customers in Python — Pearson, Spearman, point-biserial and Cramér's V
-
 # Behavioural Drivers of Annual Revenue — NovaRetail+ (Python)
 
 Correlational analysis of 15,000 ecommerce customers, identifying which behaviours are associated with the annual revenue each customer generates — and which are not.
